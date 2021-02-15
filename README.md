@@ -42,7 +42,7 @@
 * Илья Гусев, МФТИ
 * Иван Смуров, ABBYY, МФТИ
 
-[**Страница соревнования на CodaLab**] (https://competitions.codalab.org/competitions/28830#learn_the_details)
+[**Страница соревнования на CodaLab**](https://competitions.codalab.org/competitions/28830#learn_the_details)
 [**Телеграм-чат соревнования**](https://t.me/dialogue_clustering)
 
 
