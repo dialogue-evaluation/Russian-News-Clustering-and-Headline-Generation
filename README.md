@@ -68,7 +68,7 @@ F-мера на положительных примерах.
 
 * ~5 тысяч размеченных пар заголовков за 25 мая 2020, обучение и валидация: [ссылка](https://www.dropbox.com/s/jpcwryaeszqtrf9/titles_markup_0525_urls.tsv)
 * ~3 тысячи размеченных пар заголовков за 27 мая 2020, публичный лидерборд: [ссылка](https://www.dropbox.com/s/jfa1b1xxw24znr9/titles_markup_0527_urls.tsv)
-* ~3 тысячи размеченных пар заголовков за 27 мая 2020, приватный лидерборд: [ссылка](https://www.dropbox.com/s/qyegrt8oj2wn686/titles_markup_0529_urls.tsv)
+* ~3 тысячи размеченных пар заголовков за 29 мая 2020, приватный лидерборд: [ссылка](https://www.dropbox.com/s/qyegrt8oj2wn686/titles_markup_0529_urls.tsv)
 
 ### Задача
 Задача: ранжирование заголовков
