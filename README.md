@@ -26,7 +26,7 @@ https://colab.research.google.com/drive/1bam5oFul9Gzj9rryq8_7M1-EGJxO3K-G#scroll
 Содержимое датасета: 
 * ~15 тысяч размеченных пар новостей за 25 мая 2020, обучение и валидация: [ссылка](https://www.dropbox.com/s/8lu6dw8zcrn840j/ru_clustering_0525_urls.tsv)
 * ~8,5 тысяч размеченных пар новостей за 27 мая 2020, публичный лидерборд: [ссылка](https://www.dropbox.com/s/3yh5ii20ijfbtb6/ru_clustering_0527_urls_final.tsv)
-* ~8,5 тысяч размеченных пар новостей за 29 мая 2020, приватный лидерборд: [ссылка](https://www.dropbox.com/s/reria9xlfvj17a2/ru_clustering_0529_urls_final.tsv)
+* ~8,5 тысяч размеченных пар новостей за 29 мая 2020, приватный лидерборд: [ссылка](https://www.dropbox.com/s/3yeui3sdlc5jhd4/ru_clustering_0529_urls_final_v2.tsv)
 
 ### Задача
 Задача: кластеризация с эталонной разметкой или бинарная классификация
