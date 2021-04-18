@@ -92,7 +92,7 @@ F-мера на положительных примерах.
 Ссылка: https://competitions.codalab.org/competitions/29905
 
 ### Данные
-* Тестовая выборка, 9-12 мая 2021, данные Телеграма: [ссылка](https://www.dropbox.com/s/9vlf6plbjqpbmea/headline_generation_answers.jsonl.tar.gz)
+* Тестовая выборка, 9-12 марта 2021, данные Телеграма: [ссылка](https://www.dropbox.com/s/9vlf6plbjqpbmea/headline_generation_answers.jsonl.tar.gz)
 
 ### Задача
 Задача: генерация заголовков
