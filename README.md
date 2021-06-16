@@ -1,18 +1,28 @@
 # Russian News Сlustering and Headline Generation
 
+Paper: [Russian News Clustering and Headline Selection Shared Task](http://www.dialog-21.ru/media/5297/gusevioplussmurovim154.pdf)
+
+## Participants papers:
+* Vatolin et al., SberBank: [Russian News Similarity Detection with SBERT: pre-training and fine-tuning](http://www.dialog-21.ru/media/5288/vatolinasplussmirnovaeyplusshkarinss136.pdf)
+* Khaustov et al., MTS AI: [BERT for Russian news clustering](http://www.dialog-21.ru/media/5294/khaustovsvplusetal135.pdf)
+* Voropaev et al., MIPT: [Transformers for Headline Selection for Russian News Clusters](http://www.dialog-21.ru/media/5290/voropaevpplussopilnyako140.pdf)
+
+## Scripts
+* Baselines: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bam5oFul9Gzj9rryq8_7M1-EGJxO3K-G#scrollTo=GgLzfNigT-er)
+* MLM BERT pretraining: [train_mlm.py](https://github.com/dialogue-evaluation/Russian-News-Clustering-and-Headline-Generation/blob/main/train_mlm.py)
+* Clustering solution (reproduced): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rx2K4omqv96mYTL3f3sGAL9HWGeUhpv4)
+* Classification solution (reproduced): TBA
+
+## Shared task timeline
+February 8, 2021: Clustering task started on [Codalab](https://competitions.codalab.org/competitions/28830).
+February 26, 2021: Headline selection task started on [Codalab](https://competitions.codalab.org/competitions/29479).
+March 13, 2021: Headline generation task started on [Codalab](https://competitions.codalab.org/competitions/29905).
+March 22, 2021: Final deadline for all competitions.
+March 28, 2021: Final deadline for paper submission.
+
 ## Введение
 Цель соревнования – собрать и сравнить подходы к кластеризации и выбору наилучшего заголовка для получившихся кластеров. Кластеризация новостей выглядит достаточно сложной задачей для современных моделей, и из-за этого является хорошим бенчмарком. Кроме того, кластеризация текстов как задача достаточно часто встречается в индустрии. Выбор или генерация лучшего заголовка – логичное её продолжение.
 
-## Таймлайн соревнования
-* **08.02.2021** -- запуск [дорожки по кластеризации](https://competitions.codalab.org/competitions/28830)
-* **22.02.2021** -- — запуск [дорожки по выбору заголовков](https://competitions.codalab.org/competitions/29479)
-* **01.03.2021**  -- запуск [дорожки по генерации заголовков](https://competitions.codalab.org/competitions/29905)
-* **21.03.2021** -- дедлайн по всем дорожкам.
-* **28.03.2021** -- дедлайн по подачи статей по результатам соревнования.
-
-## Бейзлайны
-
-https://colab.research.google.com/drive/1bam5oFul9Gzj9rryq8_7M1-EGJxO3K-G#scrollTo=GgLzfNigT-er
 
 ## Соревнование по кластеризации
 Ссылка: https://competitions.codalab.org/competitions/28830
