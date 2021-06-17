@@ -14,11 +14,11 @@ Paper: [Russian News Clustering and Headline Selection Shared Task](http://www.d
 * Classification solution (reproduced): TBA
 
 ## Shared task timeline
-February 8, 2021: Clustering task started on [Codalab](https://competitions.codalab.org/competitions/28830).
-February 26, 2021: Headline selection task started on [Codalab](https://competitions.codalab.org/competitions/29479).
-March 13, 2021: Headline generation task started on [Codalab](https://competitions.codalab.org/competitions/29905).
-March 22, 2021: Final deadline for all competitions.
-March 28, 2021: Final deadline for paper submission.
+* February 8, 2021: Clustering task started on [Codalab](https://competitions.codalab.org/competitions/28830).
+* February 26, 2021: Headline selection task started on [Codalab](https://competitions.codalab.org/competitions/29479).
+* March 13, 2021: Headline generation task started on [Codalab](https://competitions.codalab.org/competitions/29905).
+* March 22, 2021: Final deadline for all competitions.
+* March 28, 2021: Final deadline for paper submission.
 
 ## Введение
 Цель соревнования – собрать и сравнить подходы к кластеризации и выбору наилучшего заголовка для получившихся кластеров. Кластеризация новостей выглядит достаточно сложной задачей для современных моделей, и из-за этого является хорошим бенчмарком. Кроме того, кластеризация текстов как задача достаточно часто встречается в индустрии. Выбор или генерация лучшего заголовка – логичное её продолжение.
