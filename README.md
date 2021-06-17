@@ -11,7 +11,7 @@ Paper: [Russian News Clustering and Headline Selection Shared Task](http://www.d
 * Baselines: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bam5oFul9Gzj9rryq8_7M1-EGJxO3K-G#scrollTo=GgLzfNigT-er)
 * MLM BERT pretraining: [train_mlm.py](https://github.com/dialogue-evaluation/Russian-News-Clustering-and-Headline-Generation/blob/main/train_mlm.py)
 * Clustering solution (reproduced): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rx2K4omqv96mYTL3f3sGAL9HWGeUhpv4)
-* Classification solution (reproduced): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]](https://colab.research.google.com/drive/1lDXFjUWhLE70_1zLvcEJEb4grupymVo3)
+* Classification solution (reproduced): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lDXFjUWhLE70_1zLvcEJEb4grupymVo3)
 
 ## Shared task timeline
 * February 8, 2021: Clustering task started on [Codalab](https://competitions.codalab.org/competitions/28830).
