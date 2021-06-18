@@ -6,6 +6,8 @@ Paper: [Russian News Clustering and Headline Selection Shared Task](http://www.d
 * Vatolin et al., SberBank: [Russian News Similarity Detection with SBERT: pre-training and fine-tuning](http://www.dialog-21.ru/media/5288/vatolinasplussmirnovaeyplusshkarinss136.pdf)
 * Khaustov et al., MTS AI: [BERT for Russian news clustering](http://www.dialog-21.ru/media/5294/khaustovsvplusetal135.pdf)
 * Voropaev et al., MIPT: [Transformers for Headline Selection for Russian News Clusters](http://www.dialog-21.ru/media/5290/voropaevpplussopilnyako140.pdf)
+* Glazkova Anna, University of Tyumen: [Towards News Aggregation in Russian: a BERT-based Approach to News Article Similarity Detection](http://www.dialog-21.ru/media/5313/glazkovaav131.pdf)
+* Tikhonova et al., SberDevices: [Using Generative Pretrained Transformer-3 Models for Russian News Clustering and Title Generation tasks](http://www.dialog-21.ru/media/5330/tikhonovamplusetal138.pdf)
 
 ## Scripts
 * Baselines: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bam5oFul9Gzj9rryq8_7M1-EGJxO3K-G#scrollTo=GgLzfNigT-er)
